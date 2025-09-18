@@ -9,7 +9,7 @@ A good example for the A* algorithm is for controlling a snake to eat food, whil
 1. Download pygame through ``pip install pygame``
 2. Run snakestar.py
 
-### Code Snippets
+### Code Snippet
 
 A* Algorithm
 
